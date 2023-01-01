@@ -1,6 +1,6 @@
-# Encrypted by Hamid Meer
-# Whatsapp 03155912839 
-# Github- https://github.com/Hamii-king-06
+# omar-muhammed
+# Whatsapp 0926297375-0944821635
+# Github- https://github.com/iamomarsalem
 
 exec("".join(map(chr,[int("".join(str({'😀': 0, '😁': 3, '😂': 6, '😃': 1, '😄': 2, '😅': 4, '😉': 7, '😊': 8, '😛': 9, '🤣': 5}[i]) for i in x.split())) for x in
 "😃 😃 😄  😃 😃 😅  😃 😀 🤣  😃 😃 😀  😃 😃 😂  😁 😄  😅 😀  😁 😅  😂 🤣  😃 😃 😅  😃 😀 😃  😁\
